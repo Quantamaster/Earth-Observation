@@ -15,7 +15,10 @@ Model Training & Evaluation: Train a ResNet18 classifier on the Sentinel-2 image
 
 Datasets and Inputs
 The following datasets are required for the pipeline:
-
+https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed?select=delhi_ncr_region.geojson
+https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed?select=rgb
+https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed?select=delhi_airshed.geojson
+https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed?select=worldcover_bbox_delhi_ncr_2021.tif
 Delhi-NCR shapefile (EPSG:4326): Defines the boundary for the gridding and analysis area.
 
 Delhi-Airshed shapefile (EPSG:4326): (Provided, but primary analysis focuses on the Delhi-NCR extent for Q1).
