@@ -1,4 +1,4 @@
-![Space for climate and water image](Space for climate and water.jpg)
+![Space for climate and water image](https://github.com/Quantamaster/Earth-Observation/blob/c8f8408086fe21bce706fdaddfa563c7f9857b5d/Space%20for%20climate%20and%20water.jpg)
 
 Earth Observation Land Cover Pipeline: README
 Overview
