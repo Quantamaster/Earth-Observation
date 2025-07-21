@@ -1,3 +1,5 @@
+![Space for climate and water image](Space for climate and water.jpg)
+
 Earth Observation Land Cover Pipeline: README
 Overview
 This project provides a complete, reproducible workflow for automated land cover classification using Sentinel-2 image patches and ESA WorldCover data. The pipeline enables extraction, labeling, and supervised modeling of large geospatial chip collections, supporting quantitative environmental audit and analysis.
