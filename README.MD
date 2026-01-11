@@ -15,22 +15,26 @@
 
 ## 📚 Table of Contents
 
-- [Overview](#-overview)
-- [Project Context](#-project-context)
-- [System Architecture](#-system-architecture)
-- [Directory Structure](#-directory-structure)
-- [Dataset](#-dataset)
-- [Pipeline Architecture](#-pipeline-architecture)
-- [Model Details](#-model-details)
-- [Datasets & Inputs](#-datasets--inputs)
-- [Technical Requirements](#-technical-requirements)
-- [Workflow Summary](#-workflow-summary)
-- [Usage Guide](#-usage-guide)
-- [Data Formats](#-data-formats)
-- [Results & Metrics](#-results--metrics)
-- [Troubleshooting](#-troubleshooting)
-- [Best Practices](#-best-practices)
-- [Citation](#-citation)
+- [📌 Overview](#-overview)
+- [🛰️ Project Context](#️-project-context)
+  - [Data Sources](#data-sources)
+- [🧠 System Architecture](#-system-architecture)
+- [📁 Directory Structure](#-directory-structure)
+- [📦 Dataset](#-dataset)
+- [🔍 Pipeline Breakdown](#-pipeline-breakdown)
+  - [Phase 1: Spatial Reasoning & Filtering](#phase-1-spatial-reasoning--filtering)
+  - [Phase 2: Label Construction](#phase-2-label-construction)
+  - [Phase 3: Dataset Cleaning & Split](#phase-3-dataset-cleaning--split)
+  - [Phase 4: CNN Training & Evaluation](#phase-4-cnn-training--evaluation)
+- [📊 Results & Metrics](#-results--metrics)
+- [🧠 Model Details](#-model-details)
+- [⚙️ Technical Requirements](#️-technical-requirements)
+- [🚀 Usage](#-usage)
+- [🧾 Data Format](#-data-format)
+- [🛠️ Troubleshooting](#️-troubleshooting)
+- [✅ Best Practices](#-best-practices)
+- [📚 Citation](#-citation)
+
 ---
 
 ## 📌 Overview
@@ -277,6 +281,7 @@ Please cite the following if used in research or applications:
 ---
 
 ⭐ **If this repository helps your work, consider starring it!**
+
 
 
 
