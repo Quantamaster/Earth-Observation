@@ -13,7 +13,25 @@
 ---
 ![Space for climate and water](https://github.com/Quantamaster/Earth-Observation/blob/c8f8408086fe21bce706fdaddfa563c7f9857b5d/Space%20for%20climate%20and%20water.jpg)
 
+## 📚 Table of Contents
 
+- [Overview](#-overview)
+- [Project Context](#-project-context)
+- [System Architecture](#-system-architecture)
+- [Directory Structure](#-directory-structure)
+- [Dataset](#-dataset)
+- [Pipeline Architecture](#-pipeline-architecture)
+- [Model Details](#-model-details)
+- [Datasets & Inputs](#-datasets--inputs)
+- [Technical Requirements](#-technical-requirements)
+- [Workflow Summary](#-workflow-summary)
+- [Usage Guide](#-usage-guide)
+- [Data Formats](#-data-formats)
+- [Results & Metrics](#-results--metrics)
+- [Troubleshooting](#-troubleshooting)
+- [Best Practices](#-best-practices)
+- [Citation](#-citation)
+---
 
 ## 📌 Overview
 This repository presents a **reproducible Earth Observation (EO) and Deep Learning pipeline** for **automated land-cover classification** using **Sentinel-2 RGB image patches** and **ESA WorldCover 2021** data.
@@ -259,6 +277,7 @@ Please cite the following if used in research or applications:
 ---
 
 ⭐ **If this repository helps your work, consider starring it!**
+
 
 
 
