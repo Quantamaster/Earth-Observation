@@ -1,12 +1,9 @@
 
 ## 🌍 Earth Observation Land Cover Classification Pipeline 
 **AI-Based Geospatial Audit of the Delhi Airshed**
-
-![Space for climate and water](https://github.com/Quantamaster/Earth-Observation/blob/c8f8408086fe21bce706fdaddfa563c7f9857b5d/Space%20for%20climate%20and%20water.jpg)
-
 ---
 
-## 🔖 Badges
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![Satellite](https://img.shields.io/badge/Satellite-Sentinel--2-green)
@@ -14,6 +11,9 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
+![Space for climate and water](https://github.com/Quantamaster/Earth-Observation/blob/c8f8408086fe21bce706fdaddfa563c7f9857b5d/Space%20for%20climate%20and%20water.jpg)
+
+
 
 ## 📌 Overview
 This repository presents a **reproducible Earth Observation (EO) and Deep Learning pipeline** for **automated land-cover classification** using **Sentinel-2 RGB image patches** and **ESA WorldCover 2021** data.
@@ -259,5 +259,6 @@ Please cite the following if used in research or applications:
 ---
 
 ⭐ **If this repository helps your work, consider starring it!**
+
 
 
